@@ -24,7 +24,7 @@
   <br />
   <strong>╔══ SUKUNA LIFE // PASQUA BAILEYS ══╗</strong><br />
   <em>◈ CURSED ENERGY ONLINE · NATIVE POWER · NO BLUR ◈</em><br />
-  <strong>╚══ POWERED BY PASQUA TECH · VERSION 2.8.7 ══╝</strong>
+  <strong>╚══ POWERED BY PASQUA TECH · VERSION 2.8.8 ══╝</strong>
 </div>
 
 
@@ -1352,7 +1352,8 @@ sock.sendMessage(jid, {
   viewOnce: true
 })
 
-// View-once text (experimental; best supported by WhatsApp Beta)
+// View-once text (experimental; uses the native inner text flag)
+// Availability and rendering still depend on the WhatsApp client version.
 await sock.sendViewOnceText(jid, 'This text can be opened once')
 
 // Equivalent low-level form
