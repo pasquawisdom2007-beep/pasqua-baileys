@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+%40pasqua-baileys%2Fbaileys%3B+WhatsApp+API+for+Node.js%3B+Rich+Messages+%7C+Meta+AI+Style%3B+Production+Ready+%E2%9C%85" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=DC2626&center=true&vCenter=true&width=700&lines=PASQUA+BAILEYS+%7C+SUKUNA+LIFE%3B+WhatsApp+API+for+Node.js%3B+Rich+Messages+%7C+Native+Power%3B+Production+Ready" alt="Pasqua Baileys Sukuna Life" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/npm/v/@pasqua-baileys/baileys?style=for-the-badge&logo=npm&color=10b981&labelColor=0a0f0a" />
-  <img src="https://img.shields.io/github/stars/pasqua-baileys/baileys?style=for-the-badge&logo=github&color=10b981&labelColor=0a0f0a" />
-  <img src="https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge&labelColor=0a0f0a" />
-  <img src="https://img.shields.io/badge/Node.js-%3E%3D18-10b981?style=for-the-badge&logo=node.js&labelColor=0a0f0a" />
+  <img src="https://img.shields.io/npm/v/@pasqua-baileys/baileys?style=for-the-badge&logo=npm&color=dc2626&labelColor=111111" />
+  <img src="https://img.shields.io/github/stars/pasquawisdom2007-beep/pasqua-baileys?style=for-the-badge&logo=github&color=dc2626&labelColor=111111" />
+  <img src="https://img.shields.io/badge/License-MIT-dc2626?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/Node.js-%3E%3D20-dc2626?style=for-the-badge&logo=node.js&labelColor=111111" />
 </p>
 
 <br />
@@ -22,7 +22,9 @@
     <img src="./assets/baileys-demo.gif" width="700" alt="Baileys live demonstration" />
   </a>
   <br />
-  <em>˗ˏˋ ☏ ˎˊ˗ + ☕︎ + ⚉ + ✆ + ☻ — ⩇⩇:⩇⩇</em>
+  <strong>╔══ SUKUNA LIFE // PASQUA BAILEYS ══╗</strong><br />
+  <em>◈ CURSED ENERGY ONLINE · NATIVE POWER · NO BLUR ◈</em><br />
+  <strong>╚══ POWERED BY PASQUA TECH · VERSION 2.8.6 ══╝</strong>
 </div>
 
 

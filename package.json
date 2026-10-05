@@ -1,6 +1,6 @@
 {
   "name": "@pasqua-baileys/baileys",
-  "version": "2.8.5",
+  "version": "2.8.6",
   "description": "Baileys is a WebSockets library for interacting with WhatsApp Web — PASQUA edition with anti-ban system, ban checker API, rich messages, interactive messages, albums and more",
   "main": "lib/index.js",
   "type": "module",
